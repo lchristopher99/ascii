@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using OpenCvSharp;
 
-namespace ASCII_Zoom
+namespace ASCII
 {
   public class Program
   {
